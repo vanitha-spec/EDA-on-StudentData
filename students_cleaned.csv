@@ -1,0 +1,10 @@
+Student ID,Name,Age,Gender,City,Marks,Performance
+S010,Kiran,,Male,Mumbai,95.0,Excellent
+S005,Arjun123,20.0,male,Bengaluru,92.0,Excellent
+S002,Priya Reddy,21.0,Female,Hyderabad,90.0,Excellent
+S006,Sneha Rao,21.0,Female,Bengaluru,85.125,Good
+S001,Rahul Kumar,20.0,Male,Hyderabad,85.0,Good
+S009,Rahul Kumar,20.0,Male,Hyderabad,85.0,Good
+S008,Meena Patel,19.0,Female,Chennai,81.0,Good
+S003,John Doe,19.0,Male,Hyderabad,78.0,Good
+S007,Ravi Kumar,,Male,Chennai,75.0,Good
